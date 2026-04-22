@@ -1,0 +1,12 @@
+# Emulsion Droplets Analysis Toolkit - Python Dependencies
+
+# Core scientific computing
+numpy
+scipy
+pandas
+matplotlib
+
+# Shape analysis (Stage ③)
+opencv-python
+shapely
+tqdm
